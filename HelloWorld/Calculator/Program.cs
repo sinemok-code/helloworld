@@ -12,7 +12,7 @@ namespace Calculator
         {
           
             
-            Console.WriteLine("Sinem OK");
+            Console.WriteLine("Sinem OK OZTURK");
             Console.ReadKey();
         }
     }
